@@ -5,7 +5,8 @@ package routeros
 
 import (
 	"crypto/md5"
-	"crypto/tls"
+	_"crypto/tls"
+	"github.com/hainguyen8y/golang-crypto-tls"
 	"encoding/hex"
 	"errors"
 	"fmt"
