@@ -4,8 +4,8 @@ import (
 	"io"
 	"testing"
 
-	"github.com/go-routeros/routeros"
-	"github.com/go-routeros/routeros/proto"
+	"github.com/hainguyen8y/routeros"
+	"github.com/hainguyen8y/routeros/proto"
 )
 
 func TestLogin(t *testing.T) {

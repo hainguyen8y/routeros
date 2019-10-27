@@ -3,7 +3,7 @@ package routeros
 import (
 	"fmt"
 
-	"github.com/go-routeros/routeros/proto"
+	"github.com/hainguyen8y/routeros/proto"
 )
 
 type asyncReply struct {
