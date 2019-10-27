@@ -3,7 +3,7 @@ package routeros
 import (
 	"errors"
 
-	"gopkg.in/routeros.v2/proto"
+	"gopkg.in/hainguyen8y/routeros.v2/proto"
 )
 
 var (

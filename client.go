@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	"gopkg.in/routeros.v2/proto"
+	"gopkg.in/hainguyen8y/routeros.v2/proto"
 )
 
 // Client is a RouterOS API client.

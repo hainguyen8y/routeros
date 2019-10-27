@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"gopkg.in/routeros.v2"
+	"gopkg.in/hainguyen8y/routeros.v2"
 )
 
 var (

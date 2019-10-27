@@ -4,8 +4,8 @@ import (
 	"io"
 	"testing"
 
-	"gopkg.in/routeros.v2"
-	"gopkg.in/routeros.v2/proto"
+	"gopkg.in/hainguyen8y/routeros.v2"
+	"gopkg.in/hainguyen8y/routeros.v2/proto"
 )
 
 func TestLoginPre643(t *testing.T) {

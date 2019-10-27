@@ -1,6 +1,6 @@
 package routeros
 
-import "gopkg.in/routeros.v2/proto"
+import "gopkg.in/hainguyen8y/routeros.v2/proto"
 
 // chanReply is shared between ListenReply and AsyncReply.
 type chanReply struct {
